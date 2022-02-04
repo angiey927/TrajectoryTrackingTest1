@@ -1,0 +1,6 @@
+See file:///C:/Users/berna/Desktop/FRC/C++Project/ramseteControllerTesting/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Drivetrain.cpp successful.
+
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/berna/Desktop/FRC/C++Project/ramseteControllerTesting/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
